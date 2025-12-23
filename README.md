@@ -1,7 +1,5 @@
 # Machine Unlearning via Gradient Ascent
 **By Joshua Sojan, Tyler Ham, Sashreek Rewatkar**
-This repository contains the code and research paper for studying machine unlearning
-as an approximation to full retraining.
 
 ## Overview
 As AI datasets grow and more user data is trained on, 
