@@ -1,9 +1,11 @@
 # Machine Unlearning via Gradient Ascent
-
+## By Joshua Sojan, Tyler Ham, Sashreek Rewatkar
 This repository contains the code and research paper for studying machine unlearning
 as an approximation to full retraining.
 
 ## Overview
+As AI datasets grow and more user data is trained on, 
+there is an ever growing concern for data privacy and training on sensitive data. 
 We evaluate whether gradient-ascent unlearning can match the accuracy of retraining
 while reducing computational cost. Experiments are conducted on the AG News dataset
 using a Transformer based classifier.
